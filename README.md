@@ -1,12 +1,15 @@
 # java1
-by Pushpa
+
+by Pushpa 
+
 #Hello world.java
-1.Package intro;
 
-2.Public class Hello world{
+ Package intro;
 
-3.  Public static void main(string[]args){
+ Public class Hello world{
 
-4.    System.out.println("Hello,world from java!");
+     Public static void main(string[]args){
+
+       System.out.println("Hello,world from java!");
       }
    }
